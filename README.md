@@ -16,7 +16,6 @@ scikit-learn 0.21.3
 numpy
 scipy 
 pandas
-
 No non-standard hardware is required.
 
 # 2.  Installation guide
