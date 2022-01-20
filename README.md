@@ -30,26 +30,27 @@ Anaconda can be installed using the following command:
 
 "Downloaded_directory_path" should be given an arbitrary directory path containing Anaconda.
 
-SVM_E_model is downloaded from the following link:  https://github.com/nwatanbe/SVM_E_model
+SVM_E_model is downloaded from the following link:  
+https://github.com/nwatanbe/SVM_E_model
 
-Conda environment are built using the following commands:
-conda create –n enzyme python=3.7.4
-conda activate enzyme
+Conda environment are built using the following commands:  
+conda create –n enzyme python=3.7.4  
+conda activate enzyme  
 
-scikit-learn is installed as follows:
-conda install scikit-learn==0.21.3
+scikit-learn is installed as follows:  
+conda install scikit-learn==0.21.3  
 
-pandas is installed as follows:
-conda install pandas
+pandas is installed as follows:  
+conda install pandas  
 
 The software typically takes several minutes to install.
 
 # 3.  Demo 
-The directory including in SVM_E-model script is changed into:
+The directory including in SVM_E-model script is changed into:  
 cd /Downloaded_directory_path/SVM_E-model/script/
 Downloaded_directory_path should be given an arbitrary directory path containing SVM_E-model.
 
-SVM_E-model script is run for prediction of CYP76AD sequences with a simplified data set, by the following command:
+SVM_E-model script is run for prediction of CYP76AD sequences with a simplified data set, by the following command:  
 python run_ml.py 
 
 The following results are output into"/Downloaded_directory_path/SVM_E-model/result/":  
