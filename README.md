@@ -1,4 +1,4 @@
-#SVM E-model Readme
+# SVM E-model Readme
 by Naoki Watanabe, Christopher J. Vavricka and Michihiro Araki
 
 1.  System requirements
@@ -7,7 +7,7 @@ by Naoki Watanabe, Christopher J. Vavricka and Michihiro Araki
 4.  Instructions for use
 5.  License
 
-#1.  System requirements
+# 1.  System requirements
 - Any Linux operating system with Anaconda is recommended for use.
 - The software was tested on CentOS 7.5.1804 (Core) with Anaconda3-2019.10.
 Other packages were used as follows:
@@ -19,7 +19,7 @@ pandas
 
 No non-standard hardware is required.
 
-#2.  Installation guide
+# 2.  Installation guide
 Anaconda can be downloaded from the following link:
 https://repo.anaconda.com/archive/Anaconda3-2019.10-Linux-x86_64.sh
 
@@ -42,7 +42,7 @@ conda install pandas
 
 The software typically takes several minutes to install.
 
-#3.  Demo 
+# 3.  Demo 
 The directory including in SVM_E-model script is changed into:
 cd /Downloaded_directory_path/SVM_E-model/script/
 Downloaded_directory_path should be given an arbitrary directory path containing SVM_E-model.
@@ -57,13 +57,13 @@ The following results are output into"/Downloaded_directory_path/SVM_E-model/res
 
 The demo run time is several minutes.
 
-#4.  Instructions for use
+# 4.  Instructions for use
 Enzyme family classification (binary classification) models are enabled to build using your data. Enzyme sequences for training and test data should first be converted into vectors, all using the same feature extractions. Positive and negative datasets should be named "sample_positive.vec" and "sample_negative.vec", respectively. Both files should be found in "/Downloaded_directory_path/SVM_E-model/train/". The test dataset file should be  named "sample_test.vec", and found in "/Downloaded_directory_path/SVM_E-model/test/".
 
 Run time depends on the dataset size and the number of vector dimensions.
 
-#5.  License
+# 5.  License
 This software is released under the MIT License, according to LICENSE.txt.
 
-#6. Reference
+# 6. Reference
 [1]Vavricka, C.J., et al., ‘Machine learning discovery of missing links that mediate alternative branches to plant alkaloids’ (in press)
