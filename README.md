@@ -18,6 +18,7 @@ scipy
 pandas  
   
 No non-standard hardware is required.  
+
 2.  Installation guide  
 Anaconda can be downloaded from the following link:  
 https://repo.anaconda.com/archive/Anaconda3-2019.10-Linux-x86_64.sh  
@@ -40,7 +41,7 @@ pandas is installed as follows:
 conda install pandas  
   
 The software typically takes several minutes to install.  
-  
+
 3.  Demo  
 The directory including in SVM_E-model script is changed into:  
 cd /Downloaded_directory_path/SVM_E-model/script/  
