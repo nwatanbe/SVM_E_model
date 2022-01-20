@@ -50,10 +50,10 @@ Downloaded_directory_path should be given an arbitrary directory path containing
 SVM_E-model script is run for prediction of CYP76AD sequences with a simplified data set, by the following command:
 python run_ml.py 
 
-The following results are output into"/Downloaded_directory_path/SVM_E-model/result/":
-●	More accurate five models
-●	Cross validation results in the five models
-●	Test results in the most accurate model
+The following results are output into"/Downloaded_directory_path/SVM_E-model/result/":  
+●	More accurate five models  
+●	Cross validation results in the five models  
+●	Test results in the most accurate model  
 
 The demo run time is several minutes.
 
