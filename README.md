@@ -22,6 +22,9 @@ pandas
 No non-standard hardware is required.  
 
 # 2.  Installation guide
+SVM_E_model is downloaded from the following link:  
+https://github.com/nwatanbe/SVM_E_model
+
 Anaconda can be downloaded from the following link:  
 https://repo.anaconda.com/archive/Anaconda3-2019.10-Linux-x86_64.sh  
 
@@ -29,9 +32,6 @@ Anaconda can be installed using the following command:
 ./Downloaded_directory_path/Anaconda3-2019.10-Linux-x86_64.sh  
 
 "Downloaded_directory_path" should be given an arbitrary directory path containing Anaconda.
-
-SVM_E_model is downloaded from the following link:  
-https://github.com/nwatanbe/SVM_E_model
 
 Conda environment are built using the following commands:  
 conda create –n enzyme python=3.7.4  
