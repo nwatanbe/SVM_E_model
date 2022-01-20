@@ -1,5 +1,5 @@
 # SVM E-model Readme
-by Naoki Watanabe, Christopher J. Vavricka and Michihiro Araki
+Naoki Watanabe, Christopher J. Vavricka and Michihiro Araki
 
 1.  System requirements
 2.  Installation guide
