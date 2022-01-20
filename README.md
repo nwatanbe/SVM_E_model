@@ -10,7 +10,7 @@ Naoki Watanabe, Christopher J. Vavricka and Michihiro Araki
 # 1.  System requirements
 Any Linux operating system with Anaconda is recommended for use.
 The software was tested on CentOS 7.5.1804 (Core) with Anaconda3-2019.10.
-Other packages were used as follows:
+Other packages were used as follows:  
 python 3.7.4  
 scikit-learn 0.21.3  
 numpy  
