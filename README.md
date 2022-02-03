@@ -33,7 +33,7 @@ Anaconda can be installed using the following command:
 
 "Downloaded_directory_path" should be given an arbitrary directory path containing Anaconda.
 
-Conda environment are built using the following commands:  
+The conda environment is built using the following commands:  
 conda create –n enzyme python=3.7.4  
 conda activate enzyme  
 
