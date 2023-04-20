@@ -69,4 +69,4 @@ Run time depends on the dataset size and the number of vector dimensions.
 This software is released under the MIT License, according to LICENSE.txt.
 
 # 6. Reference
-[1]Vavricka, C.J., et al., ‘Machine learning discovery of missing links that mediate alternative branches to plant alkaloids’ (in press)
+[1]Vavricka, C.J., et al., ‘Machine learning discovery of missing links that mediate alternative branches to plant alkaloids’, Nature Communications, 2022, 13, 1405.
